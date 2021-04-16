@@ -1,6 +1,6 @@
-class a
+class a#dev1
 public static void main()
 {
-	first class
+	s.o.p("first class");#dev1
 }
 
